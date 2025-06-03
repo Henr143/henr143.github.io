@@ -6,6 +6,14 @@
   --theme-color: #B1221A;
 }
 
+セレクタ {
+        background-color:#000000
+}
+
+.font_test{
+        color:#FFFFFF
+}
+
 * {
   box-sizing: border-box;
 }
