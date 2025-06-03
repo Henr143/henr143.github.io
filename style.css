@@ -6,14 +6,6 @@
   --theme-color: #B1221A;
 }
 
-セレクタ {
-        background-color:#000000
-}
-
-.font_test{
-        color:#FFFFFF
-}
-
 * {
   box-sizing: border-box;
 }
@@ -27,6 +19,7 @@ body {
   margin: 0;
   padding: 30px;
   color: #FFFFFF;
+　background-color: #000000;
 }
 
 /* --------------------
